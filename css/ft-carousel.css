@@ -1,0 +1,97 @@
+
+
+.ft-carousel {
+	position: relative;
+	width: 1440px;
+	height: 450px;
+	overflow: hidden;
+}
+
+.ft-carousel .sidebar {
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	z-index: 900;
+	width: 200px;
+	height: 100%;
+	left: 225px;
+}
+
+.ft-carousel .sidebar a {
+	width: 128px;
+	height: 40px;
+	cursor: pointer;
+	opacity: 0.8;
+	background: #333;
+	border-radius: 4px;
+	border: 1px solid #333;
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+	line-height: 40px;
+	margin-bottom: 18px;
+}
+
+.ft-carousel .sidebar a:hover {
+	background: #fff;
+	color: #1845ad
+}
+
+.ft-carousel .carousel-inner {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 450px;
+}
+
+.ft-carousel .carousel-inner .carousel-item {
+	float: left;
+	height: 450px;
+}
+
+.ft-carousel .carousel-item img {
+	width: 1440px;
+}
+
+.ft-carousel .carousel-indicators {
+	position: absolute;
+	left: 0;
+	bottom: 10px;
+	width: 1440px;
+	text-align: center;
+	font-size: 0;
+}
+
+.ft-carousel .carousel-indicators span {
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	background-color: #fff;
+	margin: 0 4px;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.ft-carousel .carousel-indicators span.active {
+	background-color: #de3a3a;
+}
+
+.ft-carousel .carousel-btn {
+	position: absolute;
+	top: 50%;
+	width: 50px;
+	height: 45px;
+	margin-top: -25px;
+	cursor: pointer;
+}
+
+.ft-carousel .carousel-prev-btn {
+	left: 0;
+	background: url(../img/prev.png) no-repeat;
+}
+
+.ft-carousel .carousel-next-btn {
+	right: 0;
+	background: url(../img/next.png) no-repeat;
+}

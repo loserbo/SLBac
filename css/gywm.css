@@ -1,0 +1,41 @@
+.banner {
+	height: 450px;
+}
+
+.gywm1 {
+	height: 1880px;
+}
+
+.leftline {
+	position: fixed;
+	margin-top: 35px;
+	z-index: 999;
+}
+
+.leftline li {
+	margin-left: -40px;
+	width: 280px;
+	height: 40px;
+	margin-top: 10px;
+	background-color: #FFFFFF;
+	list-style-type: none;
+}
+
+.leftline li a {
+	font-family: pingfang_regular;
+	font-size: 20px;
+	display: block;
+	text-align: center;
+	padding-top: 10px;
+	color: #1845AD;
+}
+
+.leftline li:hover {
+	background-color: #1845AD;
+	
+}
+
+.leftline li:hover a{
+	color: #FFFFFF;
+	
+}

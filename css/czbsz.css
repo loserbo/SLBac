@@ -1,0 +1,159 @@
+.banner {
+	height: 450px;
+}
+
+.zblx {
+	height: 394px;
+	padding-top: 60px;
+}
+
+.zblx{
+	text-align: center;
+	
+}
+
+.czbsz1title {
+	display: block;
+	font-family: pingfang_regular;
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+.czbsz1 {
+	width:1010px;
+	height:150px;
+	margin:0 auto;
+	margin-top:70px;
+} 
+		
+.czbsz1 ul {
+	margin-top:0px;
+}		
+
+.czbsz1 li {
+	margin-top:10px;
+	width:150px;
+	height:150px;
+	margin-left: 40px;
+	display:inline-block;
+}
+
+.czbsz1 ul li div a{
+	font-family: pingfang_regular;
+	font-size: 18px;
+}
+		
+.czbsz1 li img {
+	transition:All 0s ease-in-out;
+	-webkit-transition:All 0s ease-in-out;
+	-moz-transition:All 0s ease-in-out;
+	-o-transition:All 0s ease-in-out;	
+}
+
+.czbsz1 li img:hover {
+	-webkit-box-shadow:0px 5px 15px #e5e5e5;
+    -moz-box-shadow:0px 5px 15px #e5e5e5;
+    box-shadow:0px 5px 15px #e5e5e5;
+}
+
+.ywlc {
+	height: 337px;
+	background-color: #FFFFFF;
+}
+
+.ywlc div{
+	text-align: center;
+	padding-top: 60px;
+}
+
+.czbsz2 {
+	width:950px;
+	height:200px;
+	margin:0 auto;
+	margin-top:-50px;
+	overflow:hidden;
+} 
+		
+.czbsz2 ul {
+	margin-top:0px;
+}		
+
+.czbsz2 li {
+	margin-top:10px;
+	margin-left: -4px;
+	width:218px;
+	height:200px;
+	display:inline-block;
+}
+
+.czbsz2 li div a{
+	font-family: pingfang_regular;
+	font-size: 14px;
+	display: block;
+	margin-top: 10px;
+}
+		
+.czbsz2 li div img {
+	transition:All 0.4s ease-in-out;
+	-webkit-transition:All 0.4s ease-in-out;
+	-moz-transition:All 0.4s ease-in-out;
+	-o-transition:All 0.4s ease-in-out;	
+}
+
+.czbsz2 li div img:hover {
+	transform: scale(1.2);
+}
+
+.xycl {
+	height: 633px;
+}
+
+.xycl div{
+	text-align: center;
+	padding-top: 60px;
+}
+
+.czbsz3title {
+	font-family: pingfang_medium;
+	font-size: 24px;
+}
+
+.czbsz3 {
+	width:1440px;
+	height:280px;
+	margin:0 auto;
+	margin-top:-20px;
+	overflow:hidden;
+} 
+		
+.czbsz3 ul {
+	margin-top:0px;
+}		
+
+.czbsz3 li {
+	margin-top:10px;
+	width:182px;
+	height:80px;
+	background-color:#FFFFFF;
+	display:inline-block;
+}
+
+.czbsz3 ul li div a{
+	font-family: pingfang_regular;
+	font-size: 20px;
+}
+		
+.czbsz3 li {
+	transition:All 0s ease-in-out;
+	-webkit-transition:All 0s ease-in-out;
+	-moz-transition:All 0s ease-in-out;
+	-o-transition:All 0s ease-in-out;	
+	box-sizing: border-box;
+}
+
+.czbsz3 li:hover {
+	-moz-transform:translate(0,-6px);
+	-o-transform:translate(0,-6px);
+	-ms-transform:translate(0,-6px);
+	border-bottom:6px solid #64C4FF;
+}

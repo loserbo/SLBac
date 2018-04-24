@@ -1,0 +1,98 @@
+.banner {
+	height: 450px;
+}
+
+.gssz {
+	height: 374px;
+	background-color: #FFFFFF;
+}
+
+.gssz div{
+	text-align: center;
+	padding-top: 60px;
+}
+
+.gssz1 {
+	width:1100px;
+	height:270px;
+	margin:0 auto;
+	margin-top:-50px;
+	overflow:hidden;
+} 
+		
+.gssz1 ul {
+	margin-top:0px;
+}		
+
+.gssz1 li {
+	margin-top:10px;
+	margin-left:-10px;
+	width:185px;
+	height:190px;
+	display:inline-block;
+}
+
+.gssz1 li div a{
+	font-family: pingfang_regular;
+	font-size: 18px;
+	display: block;
+	margin-top: 0px;
+}
+		
+.gssz1 li div img {
+	transition:All 0.4s ease-in-out;
+	-webkit-transition:All 0.4s ease-in-out;
+	-moz-transition:All 0.4s ease-in-out;
+	-o-transition:All 0.4s ease-in-out;	
+}
+
+.gssz1 li div img:hover {
+	-webkit-box-shadow:0px 5px 15px #e5e5e5;
+    -moz-box-shadow:0px 5px 15px #e5e5e5;
+    box-shadow:0px 5px 15px #e5e5e5;
+}
+
+.attention {
+	height: 485px;
+}
+
+.attention div{
+	text-align: center;
+	padding-top: 60px;
+}
+
+.gssz2 {
+	width:930px;
+	height:300px;
+	margin:0 auto;
+	margin-top:0px;
+	overflow:hidden;
+} 
+		
+.gssz2 ul {
+	margin-top:0px;
+}		
+
+.gssz2 li {
+	margin-top:10px;
+	width:430px;
+	height:283px;
+	background-color:#FFFFFF;
+	display:inline-block;
+}
+		
+.gssz2 li {
+	transition:All 0s ease-in-out;
+	-webkit-transition:All 0s ease-in-out;
+	-moz-transition:All 0s ease-in-out;
+	-o-transition:All 0s ease-in-out;	
+	box-sizing: border-box;
+	
+}
+
+.gssz2 li:hover {
+	-moz-transform:translate(0,-6px);
+	-o-transform:translate(0,-6px);
+	-ms-transform:translate(0,-6px);
+	border-bottom:6px solid #64C4FF;
+}

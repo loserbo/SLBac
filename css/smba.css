@@ -1,0 +1,147 @@
+.banner {
+	height: 450px;
+}
+
+.lc {
+	height: 380px;
+	background-color: #FFFFFF;
+	margin-top: -60px;
+}
+
+.lc div{
+	text-align: center;
+	padding-top: 120px;
+}
+
+.smba1 {
+	width:1100px;
+	height:220px;
+	margin:0 auto;
+	margin-top:-170px;
+	overflow:hidden;
+} 
+		
+.smba1 ul {
+	margin-top:0px;
+}		
+
+.smba1 li {
+	margin-top:10px;
+	margin-left: 0px;
+	width:112px;
+	height:80px;
+	display:inline-block;
+}
+
+.smba1 li div a{
+	font-family: pingfang_regular;
+	font-size: 14px;
+	display: block;
+	margin-top: 10px;
+}
+		
+.smba1 li div img {
+	transition:All 0.4s ease-in-out;
+	-webkit-transition:All 0.4s ease-in-out;
+	-moz-transition:All 0.4s ease-in-out;
+	-o-transition:All 0.4s ease-in-out;	
+}
+
+.smba1 li div img:hover {
+	transform: scale(1.2);
+}
+
+.tgcl {
+	height: 645px;
+	
+}
+
+.tgcl div{
+	text-align: center;
+	padding-top: 60px;
+}
+
+.smba2title {
+	display: block;
+	font-family: pingfang_regular;
+	font-size: 18px;
+	margin-top: -30px;
+}
+
+.smba2 {
+	width: 1100px;
+	height: 400px;
+	margin:0 auto;
+	margin-top:0px;
+	overflow:hidden;
+}
+
+.smba2 ul {
+	margin-top:-30px;
+}		
+
+.smba2 li {
+	margin-top:0px;
+	margin-left: 10px;
+	width:300px;
+	height:400px;
+	background-color:#FFFFFF;
+	display:inline-block;
+}
+
+.smba2 li {
+	transition:All 0s ease-in-out;
+	-webkit-transition:All 0s ease-in-out;
+	-moz-transition:All 0s ease-in-out;
+	-o-transition:All 0s ease-in-out;	
+}
+
+.smba2 li:hover {
+	-webkit-box-shadow:0px 5px 15px #e5e5e5;
+    -moz-box-shadow:0px 5px 15px #e5e5e5;
+    box-shadow:0px 5px 15px #e5e5e5;
+}
+
+.cgal {
+	height: 412px;
+	background-color: #FFFFFF;
+}
+
+.cgal div{
+	text-align: center;
+	padding-top: 60px;
+}
+
+.smba3 {
+	width: 1030px;
+	height: 240px;
+	margin:0 auto;
+	margin-top:0px;
+	overflow:hidden;
+}
+
+.smba3 ul {
+	margin-top:-30px;
+}		
+
+.smba3 li {
+	margin-top:10px;
+	margin-left: 10px;
+	width:180px;
+	height:210px;
+	background-color:#F5F5F5;
+	display:inline-block;
+}
+
+.smba3 li {
+	transition:All 0s ease-in-out;
+	-webkit-transition:All 0s ease-in-out;
+	-moz-transition:All 0s ease-in-out;
+	-o-transition:All 0s ease-in-out;	
+}
+
+.smba3 li:hover {
+	-webkit-box-shadow:0px 5px 15px #e5e5e5;
+    -moz-box-shadow:0px 5px 15px #e5e5e5;
+    box-shadow:0px 5px 15px #e5e5e5;
+}

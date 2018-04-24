@@ -1,0 +1,30 @@
+.banner {
+	height: 450px;
+}
+
+.zjzd {
+	height: 872px;
+	margin-top: -60px;
+}
+
+.zjzd div{
+	text-align: center;
+	padding-top: 120px;
+}
+
+.zjzd div div img:hover {
+	-webkit-box-shadow:0px 5px 15px #656565;
+    -moz-box-shadow:0px 5px 15px #656565;
+    box-shadow:0px 5px 15px #656565;
+}
+
+.zzyz1 {
+	margin-left: 260px;
+	margin-top: -80px;
+}
+
+.zzyz1 table tr td img:hover{
+	-webkit-box-shadow:0px 5px 15px #656565;
+    -moz-box-shadow:0px 5px 15px #656565;
+    box-shadow:0px 5px 15px #656565;
+}

@@ -1,0 +1,169 @@
+@charset "utf-8";
+
+
+/* CSS Document */
+body, button, input, select, textarea {
+  font-family: PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+}
+.page {
+	width: 1440px;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+
+.top {
+	width: 1440px;
+	height: 60px;
+	background-color: #FFFFFF;
+	float: left;
+	position:fixed;
+	z-index: 999;
+}
+
+.logo {
+	margin-left: 245px;
+	margin-top: 12px;
+}
+
+.logo img {
+	height: 36px;
+	width: 101px;
+}
+
+.guide {
+	margin-left: 382px;
+	margin-top: -30px;
+}
+
+.guide a {
+	font-family: pingfang_regular;
+	font-size: 14px;
+	text-decoration: none;
+	color: #333333;
+	margin-left: 16px;
+}
+
+.guide a:hover {
+	border-bottom:2px solid #64C4FF;
+}
+
+.tel {
+	margin-left: 1069px;
+	margin-top: -20px;
+}
+
+.tel img {
+	height: 20px;
+	width: 126px;
+}
+
+.space {
+	height: 60px;
+}
+
+.title {
+	font-family: pingfang_light;
+	font-size: 36px;
+	color: #1845AD;
+}
+
+.advertise {
+	height: 160px;
+}
+
+.advertise img {
+	width: 1440px;
+	height: 160px;
+}
+
+.bottom {
+	height: 240px;
+	background-color: #484848;
+	position:relative;
+}
+
+.about {
+	font-family: pingfang_medium;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.yqlj {
+	position: absolute;
+	margin-left: 245px;
+	margin-top: 40px;
+}
+
+.gfwx {
+	position: absolute;
+	margin-left: 759px;
+	margin-top: 40px;
+}
+
+.gywm {
+	position: absolute;
+	margin-left: 914px;
+	margin-top: 40px;
+}
+
+.text {
+	position: absolute;
+	margin-top: 92px;
+}
+
+.link {
+	position: relative;
+	margin-left: 225px;
+}
+
+.link a{
+	font-family: pingfang_regular;
+	font-size: 14px;
+	color: #FFFFFF;
+	margin-left: 20px;
+	text-decoration: none;
+	line-height: 30px;
+}
+
+.link a:hover {
+	color: #888888;
+}
+
+.qrc {
+	position: absolute;
+	margin-left: 759px;
+	margin-top: -80px;
+}
+
+.text2 {
+	position: absolute;
+	margin-left: 914px;
+	margin-top: -90px;
+}
+
+.aboutus {
+	position: relative;
+}
+
+.aboutus a{
+	font-family: pingfang_regular;
+	font-size: 14px;
+	color: #FFFFFF;
+	margin-left: 0px;
+	line-height: 30px;
+	white-space:nowrap;
+}
+
+.carousel-btn {
+	visibility: hidden;
+}
+
+.icptext {
+	margin-left: 700px;
+	margin-top: 30px;
+}
+
+.icpnumber a{
+	color: #AAAAAA;
+	font-size: 12px;
+}
